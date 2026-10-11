@@ -1,0 +1,9 @@
+{
+		"Sound":true,
+		"Volume":1,
+		"Annoying":false,
+		"NumberThatDoesntDoAnything":7,
+		"MinIdleTime":3,
+		"MaxIdleTime":6,
+		"Health":100
+}

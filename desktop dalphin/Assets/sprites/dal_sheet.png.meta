@@ -1,0 +1,1866 @@
+fileFormatVersion: 2
+guid: 05a55b402f888a54d9a382474bcd64f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4082802042021428797
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_0
+  - first:
+      213: -7901810027229461166
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_1
+  - first:
+      213: -8269862390286967712
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_2
+  - first:
+      213: 1932440593163239833
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_3
+  - first:
+      213: 3511282931812363548
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_4
+  - first:
+      213: -6333585115154396997
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_5
+  - first:
+      213: -930623655568000103
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_6
+  - first:
+      213: 6104681328058689377
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_7
+  - first:
+      213: -335124126179742408
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_8
+  - first:
+      213: 2077664493913528294
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_9
+  - first:
+      213: -2641514700787143942
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_10
+  - first:
+      213: 8268142212544425187
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_11
+  - first:
+      213: 2257713405989789026
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_12
+  - first:
+      213: -4660163028992846993
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_13
+  - first:
+      213: -613587711945828917
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_14
+  - first:
+      213: -4980944820429911144
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_15
+  - first:
+      213: 7862885899634684810
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_16
+  - first:
+      213: 6525150538490187767
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_17
+  - first:
+      213: 5461073650534107874
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_18
+  - first:
+      213: 3576485250243336418
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_19
+  - first:
+      213: -7206297894105388590
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_20
+  - first:
+      213: -5278602759232746109
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_21
+  - first:
+      213: 5924888534764570915
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_22
+  - first:
+      213: -6729116231940689281
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_23
+  - first:
+      213: -2765280713967894119
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_24
+  - first:
+      213: 333718914042940763
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_25
+  - first:
+      213: -267730489426072538
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_26
+  - first:
+      213: -8580026167382345689
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_27
+  - first:
+      213: 5356404610883036664
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_28
+  - first:
+      213: -52687788524751818
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_29
+  - first:
+      213: 6742758772923688423
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_30
+  - first:
+      213: 4284496008290998758
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_31
+  - first:
+      213: -3363587759960222807
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_32
+  - first:
+      213: -916085173447441253
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_33
+  - first:
+      213: 3451769577372108244
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_34
+  - first:
+      213: -1583739688861763596
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_35
+  - first:
+      213: -2436242585110715685
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_36
+  - first:
+      213: 4856279783380883819
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_37
+  - first:
+      213: 7235998527163596151
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_38
+  - first:
+      213: -2510477802865867082
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_39
+  - first:
+      213: -4290286514431747028
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_40
+  - first:
+      213: 6918847586462866493
+    second: New Piskel-1.png (2) (3) (1) (1) (2)_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 125
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: dal_sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298a98175d4f93944b963bf903d0bff1
+      internalID: -50339477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 240
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b422a6ff6a257cd448c65db6f57328cd
+      internalID: 1946680898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_2
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9de27a4c38fd054eb107983ec64a080
+      internalID: 476476230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_3
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 240
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e657f98b3da8eb4d995b117ecf46c72
+      internalID: -1249477666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0885a0ac12aa4a14d80d1283aef22fe2
+      internalID: -72985270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 240
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109727e2715711642bfb63ee3af25805
+      internalID: -316389053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7ede8a11238a94bb98b4aa8bf58666
+      internalID: -792788547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_7
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 240
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8555421028922c04ebd364bdf6b0a59a
+      internalID: 183157747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df21812f5a13894a889dc298d55d959
+      internalID: -403509623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5710257f7f874cf49b1c42b9e9019d18
+      internalID: 1385670677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_10
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89652a8a6bc41fb438a5a807a2b93ee7
+      internalID: 1877800219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_11
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c153756c360e5140a60fc8c832f2802
+      internalID: -1953525655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe2082e7d78fce418fff4be5b86511c
+      internalID: -60555727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_13
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb64daf6ec6c4a41a1f94cd5759cc52
+      internalID: -1810388327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_14
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 210
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a457a323287366a458efec1263677330
+      internalID: -738279241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 210
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb3c682d0532bb43aff16d08d909b13
+      internalID: 859458922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 180
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e874b6d9fc7d77c4686974cd38b6d291
+      internalID: -399553724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_17
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 180
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383886df949a54849aedb9be3f160fba
+      internalID: 321154368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_18
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 180
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8eec6540782d2f4f8f4f566a2252920
+      internalID: -1279836186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_19
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 180
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d199cc2676bc16428f9afe6c86dbfb2
+      internalID: 1931775912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_20
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 180
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9a9fe22635f214f967eebea8847ec9
+      internalID: 385531957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_21
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 180
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138c85a590d207a479fdb79a576987ae
+      internalID: 1112186274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_22
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 180
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e8eedb2cb82f0478c7b57db5eb3e5f
+      internalID: -1135376785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_23
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 180
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd325b2b64b15a244b12dbb7afc7ac53
+      internalID: -1371937253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93bba9054eb6c5f459644b66c6ad6a9b
+      internalID: 1361481684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_25
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed621bc908b1fff4d90f60ffc4b2f342
+      internalID: -1668750149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_26
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498c8eaab3fb42d41a48b08cdf4544e3
+      internalID: 436892823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_27
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8b4465f2910434b94f6e56def8d9df
+      internalID: 1954638332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_28
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90be4e8830acb5f47bb72d25291a70b4
+      internalID: -202025433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17270ba72b05d4f47bf5678335eaab99
+      internalID: 1689440951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_30
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 150
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44b38cd16c3e9847abb3aa3e4a6fed2
+      internalID: 1969896530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_31
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 150
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e86a5c9fb2db24c988d801a4b7639f
+      internalID: -949973475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d1ee68a7d92fd479c0386a508c857b
+      internalID: 1484532592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_33
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e6bcbce782fab429c5d6276fee65a9
+      internalID: 220826724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_34
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6384719a0942d1e48ae9698f5852cb17
+      internalID: 1361647715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_35
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 120
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942b2ef2b94c48547a78ced47739b857
+      internalID: -1461986998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_36
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697a7bb21664b5d4ba4098a83b809c77
+      internalID: -1966563765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_37
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 120
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c8544b97fe5d974ca76992c03852d7a
+      internalID: 991920835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_38
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d4a9836cc88e14da7260aa88840538
+      internalID: -1125563602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_39
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 120
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10aa6563d9a0b544b6b1c92b052aa31
+      internalID: 1784026883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea425f2584c483547972d3a9ea960881
+      internalID: -946680717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_41
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80b7481b7ccc7c541a93937a3915351e
+      internalID: 2061120073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_42
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57529aae843c74043a0fca099a0d8b98
+      internalID: 2041178279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_43
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06bf19a84aabaf34d90640bc7d71dea9
+      internalID: 1426798722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_44
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03b2d20d472977347931f5537ea5c6f6
+      internalID: -866652128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_45
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50190e43adcd0fc49990330e07446e6b
+      internalID: 1779863806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_46
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1851670b0ef37d948abb77275188f0c1
+      internalID: 723822904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_47
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 90
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70304dd2d66c77149b9ecad5b5db065c
+      internalID: -1042935808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 60
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5814e3bd98512bc4f97c6e141d1a31f0
+      internalID: 1934486298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 60
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c942d44d4f720124e8bd0db06b94c18a
+      internalID: 6670216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_50
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 60
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97759b07c3104d44aee08e1bd29c638
+      internalID: -1807666476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_51
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 60
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e690407e991b4074596bfa6b1dd52c50
+      internalID: 1598338831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 60
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9423fb5f23724934ead544149e86a662
+      internalID: 586534040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_53
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 60
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e600118bea39a342831fc5ae8299e5a
+      internalID: -142274851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_54
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 60
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951b493c202150e4c9807ea881c0ca8b
+      internalID: -398366461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_55
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 60
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfd8d8ce67d8f546ac91aa6c32a0a08
+      internalID: 1886194265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e43c2794155e344916809decf5bbe4
+      internalID: -167244288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_57
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d80d858df118a6645b6fdfbcc9d973b6
+      internalID: 57104147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_58
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343a5175b549e3b4e89eabc76a5e7996
+      internalID: -814175556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcf648b6ee6dcc48bfd063e762a58d4
+      internalID: 1605785313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_60
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862fe610cf69c734797f6046fcd42b47
+      internalID: -1216168616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_61
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 30
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b767a9ce53c69a4a87fee78237e1d88
+      internalID: 1544802206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_62
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08002e94456852949a4c9abd9f5c1046
+      internalID: -251838224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_63
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 30
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac519fd4585db7488b3aa6a66b38045
+      internalID: -2074269949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf2d7ddd96fe184aa919f0fd41fcaf9
+      internalID: 1372376760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_65
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bebb83053c0be48866daba8842e62c
+      internalID: -63355399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_66
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088a175ffa471d84da04a23e3890e86d
+      internalID: 133342069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_67
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 0
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea2bd2b2b2b4f5b45a8a9440dc6cf49b
+      internalID: 318288897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_68
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c69568a31cbbe045bee76beb4c28d3d
+      internalID: 1299559243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dal_sheet_69
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 60
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ff7d7f29c85364abd9af57368b7bb8
+      internalID: -39575797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 91f30b5731b7325419a1186ff57bc8de
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      dal_sheet_0: -50339477
+      dal_sheet_1: 1946680898
+      dal_sheet_10: 1877800219
+      dal_sheet_11: -1953525655
+      dal_sheet_12: -60555727
+      dal_sheet_13: -1810388327
+      dal_sheet_14: -738279241
+      dal_sheet_15: 859458922
+      dal_sheet_16: -399553724
+      dal_sheet_17: 321154368
+      dal_sheet_18: -1279836186
+      dal_sheet_19: 1931775912
+      dal_sheet_2: 476476230
+      dal_sheet_20: 385531957
+      dal_sheet_21: 1112186274
+      dal_sheet_22: -1135376785
+      dal_sheet_23: -1371937253
+      dal_sheet_24: 1361481684
+      dal_sheet_25: -1668750149
+      dal_sheet_26: 436892823
+      dal_sheet_27: 1954638332
+      dal_sheet_28: -202025433
+      dal_sheet_29: 1689440951
+      dal_sheet_3: -1249477666
+      dal_sheet_30: 1969896530
+      dal_sheet_31: -949973475
+      dal_sheet_32: 1484532592
+      dal_sheet_33: 220826724
+      dal_sheet_34: 1361647715
+      dal_sheet_35: -1461986998
+      dal_sheet_36: -1966563765
+      dal_sheet_37: 991920835
+      dal_sheet_38: -1125563602
+      dal_sheet_39: 1784026883
+      dal_sheet_4: -72985270
+      dal_sheet_40: -946680717
+      dal_sheet_41: 2061120073
+      dal_sheet_42: 2041178279
+      dal_sheet_43: 1426798722
+      dal_sheet_44: -866652128
+      dal_sheet_45: 1779863806
+      dal_sheet_46: 723822904
+      dal_sheet_47: -1042935808
+      dal_sheet_48: 1934486298
+      dal_sheet_49: 6670216
+      dal_sheet_5: -316389053
+      dal_sheet_50: -1807666476
+      dal_sheet_51: 1598338831
+      dal_sheet_52: 586534040
+      dal_sheet_53: -142274851
+      dal_sheet_54: -398366461
+      dal_sheet_55: 1886194265
+      dal_sheet_56: -167244288
+      dal_sheet_57: 57104147
+      dal_sheet_58: -814175556
+      dal_sheet_59: 1605785313
+      dal_sheet_6: -792788547
+      dal_sheet_60: -1216168616
+      dal_sheet_61: 1544802206
+      dal_sheet_62: -251838224
+      dal_sheet_63: -2074269949
+      dal_sheet_64: 1372376760
+      dal_sheet_65: -63355399
+      dal_sheet_66: 133342069
+      dal_sheet_67: 318288897
+      dal_sheet_68: 1299559243
+      dal_sheet_69: -39575797
+      dal_sheet_7: 183157747
+      dal_sheet_8: -403509623
+      dal_sheet_9: 1385670677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
